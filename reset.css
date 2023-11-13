@@ -1,4 +1,11 @@
 *
+{
+    margin:0;
+    padding:0;
+}
+
+
+a
 {text-decoration: none;}
 
 body
@@ -6,7 +13,10 @@ body
     margin-left: 52px;
     margin-top: 80px;
 }
-*
+
+ul,ol
 {
     list-style-type: none;
 }
+
+
