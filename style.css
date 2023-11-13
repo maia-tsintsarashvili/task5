@@ -1,0 +1,140 @@
+.title
+{
+    color: #282828;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+}
+
+.title2
+{
+    color: #282828;
+    font-family: Inter;
+    text-align: center;
+font-size: 54px;
+font-style: normal;
+font-weight: 600;
+line-height: 62px
+}
+
+.text
+{
+    color: #5F6980;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 35px;
+}
+
+
+section
+{
+display: flex
+   
+}
+
+.photo
+{
+justify-content: space-between;
+
+}
+.names
+{
+    
+    color: #282828;
+    font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px;
+}
+.job
+{  
+    color: #3E3E59;
+    font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+}
+
+.text2
+{
+    color: #5F6980;
+    font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+}
+.people
+{
+    width: 310px;
+height: 230px;
+margin-right: 32px;
+margin-top: 48px;
+
+}
+
+section2
+{
+    display: flex;
+}
+
+p
+{
+    margin-bottom: 24px;
+}
+
+
+footer
+{
+display: flex;
+justify-content: space-between;
+background-color:lightslategray;
+align-items: center;
+margin-top: 108px;
+padding: 108px 184px 181px 164px;
+}
+
+
+
+.textlorem
+{
+   color: #535353;
+   font-size: 14px;
+   
+}
+
+.weblinks
+{
+    color: #1E1E1E;
+font-family: inter;
+font-size: 20px;
+}
+
+
+.about
+{
+    margin-top: 15px;
+    margin-bottom: 15pt;
+}
+
+
+nav
+{
+    margin-top: 50px;
+}
+
+.service .language
+{
+    font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
